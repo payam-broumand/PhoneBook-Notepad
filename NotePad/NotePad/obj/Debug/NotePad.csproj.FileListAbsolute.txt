@@ -1,0 +1,12 @@
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.csprojAssemblyReference.cache
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.notepad.resources
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.About.resources
+C:\Users\Payam\Desktop\notepad-school-contacts\NotePad\NotePad\obj\Debug\NotePad.Help.resources

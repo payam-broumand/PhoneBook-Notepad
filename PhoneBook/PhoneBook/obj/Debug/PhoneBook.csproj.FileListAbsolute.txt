@@ -1,0 +1,10 @@
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Payam\Desktop\notepad-school-contacts\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
